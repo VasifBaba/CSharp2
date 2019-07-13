@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\iyul13\iyul13\bin\Debug\iyul13.exe.config
+C:\Users\User\Source\Repos\iyul13\iyul13\bin\Debug\iyul13.exe
+C:\Users\User\Source\Repos\iyul13\iyul13\bin\Debug\iyul13.pdb
+C:\Users\User\Source\Repos\iyul13\iyul13\obj\Debug\iyul13.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\iyul13\iyul13\obj\Debug\iyul13.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\iyul13\iyul13\obj\Debug\iyul13.exe
+C:\Users\User\Source\Repos\iyul13\iyul13\obj\Debug\iyul13.pdb
